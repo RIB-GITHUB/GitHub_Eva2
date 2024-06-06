@@ -1,3 +1,5 @@
+Instalacion de nagios utilizando Docker
+
 - Se hizo este proceso en windows 10, ademas se descarga e instala lo siguiente: 
 Docker Desktop - git bash - notepad++
 - Utilizando notepad++ se empieza a crear el Dockerfile
@@ -79,4 +81,5 @@ Docker Desktop - git bash - notepad++
   git commit -m "Initial commit"
   git remote add origin https://github.com/el-usuario-que-creaste/nagios-docker.git
   git push -u origin master
+  
 - con esto se vera la informacion de tu Dockerfile en la web de github
